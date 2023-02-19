@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe080e74f2940917e9d830ffb9bc0d03e84cab674",
+  "SCAN_LINK": "https://polygonscan.com/token/0xe080e74f2940917e9d830ffb9bc0d03e84cab674",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "HotDoge Lovers Club Original",
+  "SYMBOL": "HotDoge",
+  "MAX_SUPPLY": 11111,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hotdoge-lovers-club-original",
+  "SHOW_BACKGROUND": true
+}
