@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xe080e74f2940917e9d830ffb9bc0d03e84cab674",
-  "SCAN_LINK": "https://polygonscan.com/token/0xe080e74f2940917e9d830ffb9bc0d03e84cab674",
+  "CONTRACT_ADDRESS": "0x23d38CFaE7F3CDad6a09305182F0E2519612D91c",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x23d38cfae7f3cdad6a09305182f0e2519612d91c",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "MATIC",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 5
   },
-  "NFT_NAME": "HotDoge Lovers Club Original",
-  "SYMBOL": "HotDoge",
-  "MAX_SUPPLY": 11111,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "NFT_NAME": "PROTOTYPE",
+  "SYMBOL": "PTE",
+  "MAX_SUPPLY": 115,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/hotdoge-lovers-club-original",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/buble-night-club-1",
   "SHOW_BACKGROUND": true
 }
