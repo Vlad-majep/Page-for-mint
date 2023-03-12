@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x23d38CFaE7F3CDad6a09305182F0E2519612D91c",
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0x23d38cfae7f3cdad6a09305182f0e2519612d91c",
+  "CONTRACT_ADDRESS": "0xCFd8C915F51B1ba99Ac1f80C57c2F33F8d9E7Dd4",
+  "SCAN_LINK": "https://sepolia.etherscan.io/address/0xCFd8C915F51B1ba99Ac1f80C57c2F33F8d9E7Dd4",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 5
+    "ID": 11155111
   },
   "NFT_NAME": "PROTOTYPE",
   "SYMBOL": "PTE",
